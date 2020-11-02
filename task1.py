@@ -123,7 +123,6 @@ e8.grid(row=4,column=5)
 l9.grid(row=5,column=1)
 e9.grid(row=5,column=2)
 
-
-
+b1.grid()
 
 win.mainloop()
