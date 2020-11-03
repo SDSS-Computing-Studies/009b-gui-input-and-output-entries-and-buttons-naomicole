@@ -30,7 +30,7 @@ def clickFunction():
     c = e2.get()
     c = float(c)
 
-    m1 = math.sqrt((b**2)-(4*c))
+    m1 = math.sqrt((b**2)-(4*c))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
     m2 = (-1*b)+m1
     x1 = m2/2
 
